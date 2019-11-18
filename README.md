@@ -1,6 +1,6 @@
 # Medical Shop System
 
-![](https://img.shields.io/badge/java-^1.8.0-red.svg) ![](https://img.shields.io/badge/jquery-^1.4.2-blue.svg) ![](https://img.shields.io/badge/spring-^4.3.1-green.svg) ![](https://img.shields.io/badge/hibernate-^4.3.5-green.svg) ![](https://img.shields.io/badge/mysql-^5.1.38-yellow.svg) <br>
+![](https://img.shields.io/badge/java-^1.8.0-red.svg) ![](https://img.shields.io/badge/maven-^4.0.0-red.svg) ![](https://img.shields.io/badge/jquery-^1.4.2-blue.svg) ![](https://img.shields.io/badge/spring-^4.3.1-green.svg) ![](https://img.shields.io/badge/hibernate-^4.3.5-green.svg) ![](https://img.shields.io/badge/mysql-^5.1.38-yellow.svg) <br>
 
 Designed a personal medical website for online medicine purchase according to the medical histories updated by the doctor as well as a Forum for patients to contact doctors for instant suggestions remotely.
 
@@ -28,6 +28,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Built With
 
 * [Java](https://www.java.com/en/) - The basic language and environment of this project.
+* [Maven](https://maven.apache.org/) - A build automation tool used primarily for Java projects.
 * [jQuery](https://jquery.com/) - A JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.
 * [Spring](https://spring.io/) - An application framework and inversion of control container for the Java platform.
 * [Hibernate](https://hibernate.org/) - A framework for mapping an object-oriented domain model to a relational database.
