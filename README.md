@@ -20,9 +20,39 @@ These instructions will get you a copy of the project up and running on your loc
 #### a. Database
 * If planning to run the project locally, then we should configure the database with relevant database in this project.
 
+![database](./src/main/webapp/figure/database.png)
+
 ## Running the project
 
 * The access page for this project is `./src/main/webapp/login.jsp`, just run this with **Tomcat Server**.
+
+* Go to the `Register` Page first if you do not have an account:
+
+![register](./src/main/webapp/figure/Register.png)
+
+* After that, go to login page to login:
+
+![login](./src/main/webapp/figure/login.png)
+
+* Then, you will face the options:
+
+![options](./src/main/webapp/figure/Options.png)
+
+* Medicine Search:
+    
+![search](./src/main/webapp/figure/search.png)
+
+* Orders:
+
+![orders](./src/main/webapp/figure/orders.png)
+
+* Q & A:
+
+![QA](./src/main/webapp/figure/comments.png)
+
+* Personal Information:
+
+![info](./src/main/webapp/figure/info.png)
 
 
 ## Built With

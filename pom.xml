@@ -19,7 +19,7 @@
     <c3p0Version>0.9.1.2</c3p0Version>
     <log4jVersion>1.2.17</log4jVersion>
     <fileuploadVersion>1.3.1</fileuploadVersion>
-    <lombokVersion>1.16.10</lombokVersion>
+    <lombokVersion>1.18.10</lombokVersion>
   </properties>
 
   <dependencies>
